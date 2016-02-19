@@ -1,0 +1,28 @@
+name: PASCIUTI the marketing therapist
+favicon: null
+layout_spectrum: 0.12354006874375045
+typography_spectrum: 0.38083471823483706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9201623764820397
+  lightness: 0.020954890409484506
+  saturation: 0.08172546909190714
+  rhythmicContrast: 0.10757549293339252
+purpose: []
