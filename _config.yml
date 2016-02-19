@@ -1,6 +1,6 @@
 name: PASCIUTI the marketing therapist
 favicon: null
-layout_spectrum: 0.31297
+layout_spectrum: 0.51001
 typography_spectrum: 0.67859
 title: PASCIUTI the marketing therapist
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#00abd3'
-    - '#d0edf6'
-    - '#4dc1df'
-    - '#89d4e9'
-  brandStrength: 0.375
-  lightness: 0.625
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.75
+  lightness: 0.375
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
